@@ -1,6 +1,8 @@
 # A Practical Introduction to RxJava
 
-content is [![CC BY-NC 3.0 AU](http://i2.wp.com/mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png?resize=85%2C30 "CC BY-NC 3.0 AU")](https://creativecommons.org/licenses/by-nc/3.0/au/)
+diagrams from [reactivex.io](http://reactivex.io) are [![CC BY 3.0](https://i.creativecommons.org/l/by/3.0/80x15.png "CC BY-NC 3.0 AU")](https://creativecommons.org/licenses/by/3.0/)
+
+original content is [![CC BY-NC 3.0 AU](https://i.creativecommons.org/l/by-nc/3.0/au/80x15.png "CC BY-NC 3.0 AU")](https://creativecommons.org/licenses/by-nc/3.0/au/)
 
 built using [Spectacle](https://github.com/FormidableLabs/spectacle) and [Spectacle Boilerplate](https://github.com/FormidableLabs/spectacle-boilerplate/) under an [MIT license](https://github.com/jamesgorman2/practical-intro-to-rxjava/blob/master/LICENSE)
 
